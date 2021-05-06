@@ -49,6 +49,8 @@ date_format = "Jan 2006"
   * Esecuzione di misure EMC _in situ_ su apparati di grosse dimesioni
   * Gestione dell'intero parco strumenti del laboratorio, in termini di
   tarature interne, tarature esterne, verifiche periodiche, prove in doppio
+  * Gestione del processo di accreditamento del laboratorio, con aggiornamento delle
+  procedure operative e delle valutazioni dell'incertezza per le varie prove
   * Fattibilità e stesura di piani prove EMC
   * Analisi progressi futuri e piani di investimenti
   * Supporto al cliente per inquadramento normativo prodotti
